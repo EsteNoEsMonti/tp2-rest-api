@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Elevation",
+        "authorID": "1"
+    },
+    {
+        "id": "2",
+        "name": "Pet sematary",
+        "authorID": "1"
+    },
+    {
+        "id": "3",
+        "name": "Dr Sleep",
+        "authorID": "1"
+    },
+    {
+        "id": "4",
+        "name": "Harry Potter and The prisoner of Azkaban",
+        "authorID": "2"
+    },
+    {
+        "id": "5",
+        "name": "Filosofia en 11 frases",
+        "authorID": "3"
+    },
+    {
+        "id": "6",
+        "name": "Filosofia a martillazos",
+        "authorID": "3"
+    }
+]
